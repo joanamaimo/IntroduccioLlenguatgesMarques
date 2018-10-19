@@ -1,5 +1,5 @@
 
-# _Introducció als Llenguatges de Marques LLSGI-01 (Joana Maria Maimó)_
+# _Introducció als Llenguatges de Marques LLSGI-01_   _(Joana Maria Maimó)_
 Durant aquesta pràctica, a més de llegir el temari he fet els tutorials de:
 * Markdown 
   * Ho vaig trobar relativament fàcil encara que suposo que hi ha moltes més opcions de modificació de text que les que emprem a la pràctica
