@@ -17,7 +17,7 @@ Durant aquesta pràctica, a més de llegir el temari he fet els tutorials de:
 ### **C) Usa Rawgit per veure html de GitHub**
 1. He obert el fitxer **.HTML** 
 2. He copiat la URL del fitxer
-3. L'he copiat a [RAW GITHACK](https://raw.githack.com/) i he copiat l'enllaç del _"Use this URL for developmen"_
+3. L'he copiat a [RAW GITHACK](https://raw.githack.com/) i he copiat l'enllaç del _"Use this URL for development"_
 4. He obert aquesta URL a l'exporador WEB _(funciona correctament)_: https://raw.githack.com/joanamaimo/IntroduccioLlenguatgesMarques/master/Codi_HTML1.html
 ### **D) Edita README.md explicant el que has fet**
 * ####  He inclòs tal i com es demana  Títols, llistes, Enllaços i cursives + negretes i per acabar provaré d'incloure una imatge:
@@ -26,6 +26,6 @@ Durant aquesta pràctica, a més de llegir el temari he fet els tutorials de:
    ![HELLO WORLD](http://swe.mit.edu/outreach/images/helloworld.jpg)
    
   * **AUTOAVALUACIÓ: TOT SÍ**
->### **COMENTARIS**: He tingut problemes dins el tutorial de _Markdown_ amb els darrers exercicis amb els _Hard_ i _Soft breaks_. Per altra banda el meu anglès és limitat i això fa que estigui més temps a fer els exercicis i alguns conceptes me queden difusos, tot i que empro un traductor per certes paraules. 
+>#### **COMENTARIS**: He tingut problemes dins el tutorial de _Markdown_ amb els darrers exercicis amb els _Hard_ i _Soft breaks_. Per altra banda el meu anglès és limitat i això fa que estigui més temps a fer els exercicis i alguns conceptes me queden difusos, tot i que empro un traductor per certes paraules. 
 
-**_CONCLUSIONS_**: Espero de mica en mica anar avançant tant en l'idioma com amb el mòdul ja que fa 2 anys complets que tenc el cicle formatiu aturat per poder atendre les meves obligacions laborals. Enguany començo de nou i molt animada. A veure si dura!
+>#### _CONCLUSIONS: Espero de mica en mica anar avançant tant en l'idioma com amb el mòdul ja que fa 2 anys complets que tenc el cicle formatiu aturat per poder atendre les meves obligacions laborals. Enguany començo de nou i molt animada. A veure si dura!_
