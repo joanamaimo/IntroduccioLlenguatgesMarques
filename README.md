@@ -28,4 +28,4 @@ Durant aquesta pràctica, a més de llegir el temari he fet els tutorials de:
   * **AUTOAVALUACIÓ: TOT SÍ**
 >#### **COMENTARIS**: He tingut problemes dins el tutorial de _Markdown_ amb els darrers exercicis amb els _Hard_ i _Soft breaks_. Per altra banda el meu anglès és limitat i això fa que estigui més temps a fer els exercicis i alguns conceptes me queden difusos, tot i que empro un traductor per certes paraules. 
 
->#### _CONCLUSIONS: Espero de mica en mica anar avançant tant en l'idioma com amb el mòdul ja que fa 2 anys complets que tenc el cicle formatiu aturat per poder atendre les meves obligacions laborals. Enguany començo de nou i molt animada. A veure si dura!_
+>#### _CONCLUSIONS: De moment pareix fàcil l'assignatura però estic convinçuda que es complicarà. Espero de mica en mica anar avançant tant en l'idioma com amb el mòdul ja que fa 2 anys complets que tenc el cicle formatiu aturat per poder atendre les meves obligacions laborals. Enguany començo de nou i molt animada. A veure si dura!_
